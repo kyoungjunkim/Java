@@ -1,6 +1,6 @@
 package exam;
 
-public class Exam {
+public class Exam03_2 {
 
 public static void main(String[] args) {
 		
@@ -15,6 +15,9 @@ public static void main(String[] args) {
 			for (int j = 0; j < 2*i +1 ; j++) {
 				System.out.print("★");
 			
+			}
+			for(int k = n-1; k > i; k--) {
+				System.out.print("☆");
 			}
 			System.out.print("\n");
 		

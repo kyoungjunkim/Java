@@ -15,6 +15,7 @@ public class Apple {
 	public void show() {
 		System.out.println("원산지 : "+country );
 		System.out.println("가격 : "+price );
+	}
 		
 		
 		@Override
@@ -28,4 +29,4 @@ public class Apple {
 		}
 		
 	}
-}
+

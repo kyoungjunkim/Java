@@ -8,7 +8,7 @@ package sub2;
  * String 클래스
  * -String은 문자열을 저장하고 가공처리에 사용되는 크래스
  * -일반적으로 리터럴방식으로 생성하고 사용
- * -문자열비교는 equals는 해야한다.
+ * -문자열비교는 equals 해야한다.
  */
 
 public class StringTest {

@@ -29,7 +29,7 @@ public class PreparedTest {
 			psmt.setString(3, "010-111-=2221");
 			psmt.setInt(4, 27);
 		
-			//4단계
+		//4단계
 			
 			psmt.executeUpdate();
 		//5단계
